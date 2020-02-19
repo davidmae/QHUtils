@@ -1,0 +1,7 @@
+*.meta
+QHLand/Assets/QHLand/Example/_ 3rdParty/*
+QHLand/Assets/QHLand/SavedWorlds/01 2x2Terrain.data
+QHLand/Assets/QHLand/SavedWorlds/*
+QHLand/Library/metadata/*
+QHLand/Library/PackageCache/*
+QHLand/Library/ShaderCache/*

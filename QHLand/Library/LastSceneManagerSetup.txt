@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/QHLand/Example/01 Islands multi-biome/01 2x2Terrain.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
